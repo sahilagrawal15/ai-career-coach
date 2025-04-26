@@ -1,0 +1,1 @@
+LOCAL_MODE = True  # Set to False when deploying to Streamlit Clouds
